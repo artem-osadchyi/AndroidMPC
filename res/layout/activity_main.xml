@@ -25,24 +25,28 @@
 
         <Button
             android:id="@+id/pad1"
+            android:tag="pad1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad2"
+            android:tag="pad2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad3"
+            android:tag="pad3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad4"
+            android:tag="pad4"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
@@ -55,24 +59,28 @@
 
         <Button
             android:id="@+id/pad5"
+            android:tag="pad5"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad6"
+            android:tag="pad6"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad7"
+            android:tag="pad7"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad8"
+            android:tag="pad8"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
@@ -85,24 +93,28 @@
 
         <Button
             android:id="@+id/pad9"
+            android:tag="pad9"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad10"
+            android:tag="pad10"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad11"
+            android:tag="pad11"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad12"
+            android:tag="pad12"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
@@ -115,24 +127,28 @@
 
         <Button
             android:id="@+id/pad13"
+            android:tag="pad13"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad14"
+            android:tag="pad14"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad15"
+            android:tag="pad15"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
         <Button
             android:id="@+id/pad16"
+            android:tag="pad16"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1" />
