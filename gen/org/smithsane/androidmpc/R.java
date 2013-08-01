@@ -26,23 +26,23 @@ public final class R {
     public static final class id {
         public static final int LinearLayout1=0x7f090000;
         public static final int action_settings=0x7f090012;
-        public static final int pad1=0x7f090002;
-        public static final int pad10=0x7f09000b;
-        public static final int pad11=0x7f09000c;
-        public static final int pad12=0x7f09000d;
-        public static final int pad13=0x7f09000e;
-        public static final int pad14=0x7f09000f;
-        public static final int pad15=0x7f090010;
-        public static final int pad16=0x7f090011;
-        public static final int pad2=0x7f090003;
-        public static final int pad3=0x7f090004;
-        public static final int pad4=0x7f090005;
-        public static final int pad5=0x7f090006;
-        public static final int pad6=0x7f090007;
-        public static final int pad7=0x7f090008;
-        public static final int pad8=0x7f090009;
-        public static final int pad9=0x7f09000a;
-        public static final int textView1=0x7f090001;
+        public static final int pad0=0x7f090002;
+        public static final int pad1=0x7f090003;
+        public static final int pad10=0x7f09000c;
+        public static final int pad11=0x7f09000d;
+        public static final int pad12=0x7f09000e;
+        public static final int pad13=0x7f09000f;
+        public static final int pad14=0x7f090010;
+        public static final int pad15=0x7f090011;
+        public static final int pad2=0x7f090004;
+        public static final int pad3=0x7f090005;
+        public static final int pad4=0x7f090006;
+        public static final int pad5=0x7f090007;
+        public static final int pad6=0x7f090008;
+        public static final int pad7=0x7f090009;
+        public static final int pad8=0x7f09000a;
+        public static final int pad9=0x7f09000b;
+        public static final int seekBar1=0x7f090001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -51,10 +51,21 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class raw {
-        public static final int crash=0x7f040000;
-        public static final int hat=0x7f040001;
-        public static final int kick=0x7f040002;
-        public static final int snare=0x7f040003;
+        public static final int bass=0x7f040000;
+        public static final int boom=0x7f040001;
+        public static final int clap=0x7f040002;
+        public static final int clhat=0x7f040003;
+        public static final int crash=0x7f040004;
+        public static final int downlift=0x7f040005;
+        public static final int kick=0x7f040006;
+        public static final int lbass=0x7f040007;
+        public static final int loop=0x7f040008;
+        public static final int ophat=0x7f040009;
+        public static final int perc=0x7f04000a;
+        public static final int ride=0x7f04000b;
+        public static final int snare=0x7f04000c;
+        public static final int synth=0x7f04000d;
+        public static final int uplift=0x7f04000e;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
