@@ -51,21 +51,32 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class raw {
-        public static final int bass=0x7f040000;
-        public static final int boom=0x7f040001;
-        public static final int clap=0x7f040002;
-        public static final int clhat=0x7f040003;
-        public static final int crash=0x7f040004;
-        public static final int downlift=0x7f040005;
-        public static final int kick=0x7f040006;
-        public static final int lbass=0x7f040007;
-        public static final int loop=0x7f040008;
-        public static final int ophat=0x7f040009;
-        public static final int perc=0x7f04000a;
-        public static final int ride=0x7f04000b;
-        public static final int snare=0x7f04000c;
-        public static final int synth=0x7f04000d;
-        public static final int uplift=0x7f04000e;
+        public static final int clap1=0x7f040000;
+        public static final int clap2=0x7f040001;
+        public static final int clap3=0x7f040002;
+        public static final int clhat1=0x7f040003;
+        public static final int clhat2=0x7f040004;
+        public static final int clhat3=0x7f040005;
+        public static final int crash1=0x7f040006;
+        public static final int crash2=0x7f040007;
+        public static final int crash3=0x7f040008;
+        public static final int kick1=0x7f040009;
+        public static final int kick2=0x7f04000a;
+        public static final int kick3=0x7f04000b;
+        public static final int ophat1=0x7f04000c;
+        public static final int ophat2=0x7f04000d;
+        public static final int ophat3=0x7f04000e;
+        public static final int perc1=0x7f04000f;
+        public static final int perc2=0x7f040010;
+        public static final int perc3=0x7f040011;
+        public static final int ride1=0x7f040012;
+        public static final int ride2=0x7f040013;
+        public static final int ride3=0x7f040014;
+        public static final int snare1=0x7f040015;
+        public static final int snare2=0x7f040016;
+        public static final int snare3=0x7f040017;
+        public static final int sound1=0x7f040018;
+        public static final int sound2=0x7f040019;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
